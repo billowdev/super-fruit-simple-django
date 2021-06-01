@@ -1,7 +1,12 @@
 Learn_Python_Django
 =================
-![Badge](https://img.shields.io/badge/python-3.9.5-0?logo=Python&color=blue)
-![Badge](https://img.shields.io/badge/django-3.2.0-0?logo=Django&color=success)
+<a href="https://www.python.org/downloads/release/python-395/">
+   <img alt="Version Python" src="https://img.shields.io/badge/python-3.9.5-0?logo=Python&color=blue">
+</a>
+
+<a href="https://docs.djangoproject.com/en/3.2/releases/3.2/">
+   <img alt="Version Python Django" src="https://img.shields.io/badge/django-3.2.0-0?logo=Django&color=success">
+</a>
 
 
 # Django 50 Hrs by Uncle Engineer
