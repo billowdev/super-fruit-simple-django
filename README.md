@@ -1,11 +1,11 @@
-## Learn_Python_Django
+# Learn_Python_Django
 
-Django 50 Hrs by Uncle Engineer
-สอนโดย Uncle Engineer
+## Django 50 Hrs by Uncle Engineer
+### สอนโดย Uncle Engineer
 
-# Reference: 
-https://www.uncle-engineer.com/course/django
-Python Django Web Development for Beginner 50 hrs
+### Reference: 
+#### https://www.uncle-engineer.com/course/django
+#### Python Django Web Development for Beginner 50 hrs
 
 - What is Django
 - Install Virtual Environment
