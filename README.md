@@ -1,4 +1,8 @@
 # Learn_Python_Django
+=================
+![Badge](https://img.shields.io/badge/python-3.9.5-0?logo=Python&color=blue)
+![Badge](https://img.shields.io/badge/django-3.2.0-0?logo=Django&color=success)
+
 
 ## Django 50 Hrs by Uncle Engineer
 ### สอนโดย Uncle Engineer
