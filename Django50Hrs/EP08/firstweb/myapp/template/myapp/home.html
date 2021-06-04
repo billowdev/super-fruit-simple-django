@@ -1,0 +1,30 @@
+<!-- home.html -->
+{% extends 'myapp/base.html' %}
+
+{% block content %}
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="https://image.freepik.com/free-photo/durian-fruit-isolated_1203-6892.jpg" width="250">
+			<h3>{{ product1 }}</h3>
+			<p>ทุเรียน เป็นไม้ผลในวงศ์ฝ้าย (Malvaceae) ในสกุลทุเรียนเป็นผลไม้ซึ่งได้ชื่อว่าเป็นราชาของผลไม้[4][5][6] ผลทุเรียนมีขนาดใหญ่และมีหนามแข็งปกคลุมทั่วเปลือก อาจมีขนาดยาวถึง 30 ซม. และอาจมีเส้นผ่าศูนย์กลางยาวถึง 15 ซม.</p>
+			<p> กิโลกรัมละ 140 บาท </p>
+		
+		</div>
+		<div class="col-sm-4">
+			<img src="https://healthjade.com/wp-content/uploads/2017/10/apple-fruit.jpg" width="150">
+			 <a href="{% url 'apple-page' %}">  <h3>{{ product2 }}</h3> </a>
+			<p>ต้นแอปเปิล (อังกฤษ: apple; ชื่อวิทยาศาสตร์: Malus domestica) เป็นต้นไม้ผลัดใบในวงศ์กุหลาบ มีผลรสหวานเรียกว่า ผลแอปเปิล </p>
+			<p>กิโลกรัมละ 60 บาท</p>
+		</div>
+
+		<div class="col-sm-4">
+			<img src="https://www.kasethub.co.th/pic/bigpic/407fed4d1a4cbf20cb7cfb657ee9c0cb.jpg" width="200">
+			<h3>{{ product3 }}</h3>        
+			<p>มังคุด (ชื่อวิทยาศาสตร์: Garcinia mangostana Linn.) เป็นพันธุ์ไม้ไม่ผลัดใบเขตร้อนชนิดหนึ่ง เชื่อกันว่ามีถิ่นกำเนิดอยู่ที่หมู่เกาะซุนดาและหมู่เกาะโมลุกกะ แพร่กระจายพันธุ์ไปสู่หมู่เกาะอินดีสตะวันตกเมื่อราวพุทธศตวรรษที่ 24 แล้วจึงไปสู่ กัวเตมาลา ฮอนดูรัส ปานามา เอกวาดอร์ ไปจนถึงฮาวาย ในประเทศไทยมีการปลูกมังคุดมานานแล้วเช่นกัน </p>
+			<p>มังคุด กิโลกรัมละ 65 บาท</p>
+		
+		</div>
+	</div>
+	
+{% endblock content %}
