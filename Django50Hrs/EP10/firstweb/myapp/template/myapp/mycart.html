@@ -1,0 +1,19 @@
+<!-- mycart.html -->
+
+{% extends 'myapp/base.html' %}
+
+{% block content %}
+
+<div class="container">
+	<h3>ตะกร้านสินค้าของฉัน</h3>
+	
+		{% for pd in mycart %}
+
+			<p> {{pd.stamp}} | {{pd.productid}} | {{pd.productname}} | {{pd.price}} | {{pd.quantity}} | {{pd.total}} </p>
+			<hr>
+		{% endfor %}	
+	
+
+</div>
+
+{% endblock content %}
