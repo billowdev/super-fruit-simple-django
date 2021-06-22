@@ -20,8 +20,10 @@ Learn_Python_Django
 #### https://www.uncle-engineer.com/course/django
 
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web01.png?raw=true)
-
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web02.png?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web03.png?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web04.png?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web05.png?raw=true)
 
 #### Python Django Web Development for Beginner 50 hrs
 - What is Django
