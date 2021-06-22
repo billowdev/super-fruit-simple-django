@@ -12,18 +12,20 @@ Learn_Python_Django
    <img alt="Version Bootstrap" src="https://img.shields.io/badge/Bootstrap4-563D7C?logo=bootstrap&logoColor=white">
 </a>
 
-
 # Django 50 Hrs by Uncle Engineer
 ### สอนโดย Uncle Engineer
 
-### Reference: 
-#### https://www.uncle-engineer.com/course/django
 
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web01.png?raw=true)
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web02.png?raw=true)
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web03.png?raw=true)
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web04.png?raw=true)
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web05.png?raw=true)
+
+
+
+### Reference: 
+#### https://www.uncle-engineer.com/course/django
 
 #### Python Django Web Development for Beginner 50 hrs
 - What is Django
