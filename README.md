@@ -14,8 +14,12 @@ Learn_Python_Django
 
 ### Reference: 
 #### https://www.uncle-engineer.com/course/django
-#### Python Django Web Development for Beginner 50 hrs
 
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web01.png?raw=true)
+
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web02.png?raw=true)
+
+#### Python Django Web Development for Beginner 50 hrs
 - What is Django
 - Install Virtual Environment
 - Install Django
