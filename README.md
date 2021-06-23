@@ -21,7 +21,7 @@ Learn_Python_Django
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web03.png?raw=true)
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web04.png?raw=true)
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web05.png?raw=true)
-
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web06.png?raw=true)
 
 
 ### Reference: 
