@@ -1,6 +1,7 @@
-## Learn to develop website using Python Django
+# Learn to develop website using Python Django
 
 =================
+
 <a href="https://www.python.org/downloads/release/python-395/">
    <img alt="Version Python" src="https://img.shields.io/badge/python-3.9.5-0?logo=Python&color=blue">
 </a>
