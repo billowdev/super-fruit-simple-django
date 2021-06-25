@@ -16,12 +16,12 @@ Learn_Python_Django
 ### สอนโดย Uncle Engineer
 
 
-![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web01.png?raw=true)
-![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web02.png?raw=true)
-![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web03.png?raw=true)
-![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web04.png?raw=true)
-![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web05.png?raw=true)
-![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web06.png?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web01.jpeg?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web02.jpeg?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web03.jpeg?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web04.jpeg?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web05.jpeg?raw=true)
+![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web06.jpeg?raw=true)
 
 
 ### Reference: 
