@@ -1,5 +1,7 @@
-Learn_Python_Django
+# Learn to develop website using Python Django
+
 =================
+
 <a href="https://www.python.org/downloads/release/python-395/">
    <img alt="Version Python" src="https://img.shields.io/badge/python-3.9.5-0?logo=Python&color=blue">
 </a>
@@ -12,7 +14,7 @@ Learn_Python_Django
    <img alt="Version Bootstrap" src="https://img.shields.io/badge/Bootstrap4-563D7C?logo=bootstrap&logoColor=white">
 </a>
 
-# Django 50 Hrs by Uncle Engineer
+## Django 50 Hrs by Uncle Engineer
 ### สอนโดย Uncle Engineer
 
 
