@@ -147,3 +147,8 @@ Basic Django REST API
 จริงหรือไม่นาฬิกายี่ห้อนี้ 1 ล้านบาท
 -range
 สั่งรันเลข 1-100 เก็บไว้ในลิสต์ทำไง
+
+
+-------------------------------------
+
+##### All content in this archive is for educational purposes. I respect the origin of all content. and/or if there is a copyright infringement Please contact me and I will gladly remove everything in this document. If there is any copyright infringement and/or offends anyone... Lacakp.
