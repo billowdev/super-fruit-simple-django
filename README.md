@@ -1,3 +1,17 @@
+=================
+
+<a href="https://www.python.org/downloads/release/python-395/">
+   <img alt="Version Python" src="https://img.shields.io/badge/python-3.9.5-0?logo=Python&color=blue">
+</a>
+
+<a href="https://docs.djangoproject.com/en/3.2/releases/3.2/">
+   <img alt="Version Python Django" src="https://img.shields.io/badge/django-3.2.0-0?logo=Django&color=success">
+</a>
+
+<a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">
+   <img alt="Version Bootstrap" src="https://img.shields.io/badge/Bootstrap4-563D7C?logo=bootstrap&logoColor=white">
+</a>
+
 ### Learn to develop website using Python Django
 
 #### Directory Structure
@@ -26,19 +40,7 @@
     │    ├── db.sqlite3
     │    └── manage.py
 
-=================
 
-<a href="https://www.python.org/downloads/release/python-395/">
-   <img alt="Version Python" src="https://img.shields.io/badge/python-3.9.5-0?logo=Python&color=blue">
-</a>
-
-<a href="https://docs.djangoproject.com/en/3.2/releases/3.2/">
-   <img alt="Version Python Django" src="https://img.shields.io/badge/django-3.2.0-0?logo=Django&color=success">
-</a>
-
-<a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">
-   <img alt="Version Bootstrap" src="https://img.shields.io/badge/Bootstrap4-563D7C?logo=bootstrap&logoColor=white">
-</a>
 
 ### Django 50 Hrs by Uncle Engineer
 
