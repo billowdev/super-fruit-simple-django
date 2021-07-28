@@ -15,7 +15,7 @@
 ### Learn to develop website using Python Django
 
 #### Directory Structure
-
+    ├── Images
     ├── firstweb
     │    ├── firstweb
     │       ├── __pycache__
@@ -39,7 +39,7 @@
     │       ├── views.py
     │    ├── db.sqlite3
     │    └── manage.py
-
+    └── README.md
 
 
 ### Django 50 Hrs by Uncle Engineer
