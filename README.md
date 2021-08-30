@@ -42,7 +42,7 @@
     └── README.md
 
 
-### Django 50 Hrs by Uncle Engineer
+### preview
 
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web01.jpeg?raw=true)
 ![alt text](https://github.com/lacakp/Django50Hrs/blob/main/Images/web02.jpeg?raw=true)
